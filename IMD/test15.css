@@ -1,0 +1,63 @@
+body{
+	max-width: 2000px;
+
+	padding-top:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	background-image: url("weather_6.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.x{
+	text-align: center;
+}
+.heading{
+	border:4px #000 solid;
+	margin-bottom:5px;
+	background-image:url("weather_13.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.forming{
+	padding-bottom: 3px;
+	display:block;
+	text-align: center;
+}
+#image1{
+	float:left;
+	padding-top: 35px;
+	margin-left: 25px;
+}
+
+#login{
+	font-size: 20px;
+}
+input{
+	font-size: 15px;
+	background-color:rgb(0,0,0,0.5);
+	color:#fff;
+}
+#forecast
+{
+
+}
+textarea{
+	font-size: 15px;
+	background-color:rgb(0,0,0,0.5);
+	color:#fff;
+}
+}
+#Register{
+	font-size: 20px;
+	margin-top:12px;
+}
+.coding{
+	
+	text-align: center;
+}
+.others{
+	border:1px #D3D3D3 solid;
+}
+#wind_direction{
+	margin-left: 20px;
+	margin-right: 20px
+}
